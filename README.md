@@ -1,5 +1,5 @@
 # shell-github-backup
-The shell script included in this repo is designed to backup the GitHub repositories.
+The shell script included in this repo is designed to backup your GitHub repositories.
 This is to protect repositories from accidental deletion or if you don't fully trust GitHub with your code.
 The script can be run using daily using crontab or any other task scheduler.
 
